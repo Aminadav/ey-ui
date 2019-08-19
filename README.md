@@ -2,6 +2,17 @@
 
 React component library. Wraps [material-ui](https://material-ui.com/).
 
+## Table of contents:
+
+- [Features](#features)
+- [Installation](#installation)
+- [Core Dependencies](#core-dependencies)
+- [Components](#components)
+- [Documentation](#documentation)
+- [Using Notifications](#using-notifications)
+- [Using Theme](#using-theme)
+- [Contributing](#contributing)
+
 ## Features
 
 - Uses `material-ui` as a foundational component library.
